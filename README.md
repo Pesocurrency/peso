@@ -1,7 +1,7 @@
 PESO 
 =====================================
 
-Peso is a cutting edge cryptocurrency for the Dedicated on promoting the use of cryptocurrency in Lating america.
+Peso is a cryptocurrency Dedicated on promoting the use of cryptocurrency in Lating america.
 - Low Supply
 - Fast transactions featurin minute blocks .
 - Decentralized blockchain.
