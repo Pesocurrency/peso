@@ -6,12 +6,12 @@ This document outlines the technical implementation details for Peso. It should 
 Specifications
 --------------
 
-* 42 million coins in total
+* 21 million coins in total
 * 2 minute average block time
-* 100 coins per block
+* 12.5 coins per block
 * Block reward halves 
 * Retargets difficulty using DarkGravityWave
-* x11 ASIC-resistant Proof-of-Work algorithm
+* x11 Proof-of-Work algorithm
 
 Port numbers
 ------------
