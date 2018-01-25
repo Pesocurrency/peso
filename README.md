@@ -12,6 +12,7 @@ More information at [peso.cash](http://www.peso.cash) or Visit our ANN thread at
 <table>
 <tr><td>Algo</td><td>X11 PoW</td></tr>
 <tr><td>Block Time</td><td>120 Seconds</td></tr>
+<tr><td>Coins Per Block</td><td>12.5 PSO</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Dark Gravity Wave</td></tr>
 <tr><td>Max Coin Supply (PoW)</td><td>21,000,000 PSO</td></tr>
 <tr><td>Block Halving</td><td>840,000</td></tr>
