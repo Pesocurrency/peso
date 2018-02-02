@@ -30,7 +30,7 @@ More information at [peso.cash](http://www.peso.cash) or Visit our ANN thread at
 <table>
 <tr><td colspan=3> Follow us in social media for updates</td></tr>
 <tr><td>Twitter</td><td> https://twitter.com/pesocurrency </td></tr>
-<tr><td>Facebook</td><td> https://t.me/pesocurrency  </td></tr>
+<tr><td>Telegram</td><td> https://t.me/pesocurrency  </td></tr>
 <tr><td>Instagram</td><td> https://instagram.com/pesocurrency </td></tr>
 </table>
 
